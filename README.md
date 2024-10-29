@@ -15,7 +15,7 @@ testing:
 install the MidiView on your pc and select the RP2040 midi device, you can see the encoders, 
 buttons and pot Midi dialog.
 
-you can download midiview from this page for free: https://hautetechnique.com/midi/midiview/
+you can download MidiView from this page for free: https://hautetechnique.com/midi/midiview/
 
 On the Radioberry piHPSDR, you need to configure the open collector outputs, in the menu 
 as you can see on the open collector.JPG file in order to enable the band decoder, remember 
